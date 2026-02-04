@@ -380,7 +380,7 @@ No se requieren variables de entorno (usa API pública).
 
 **Andrés David Molina Bueres**
 - Email: andres.molinab@pca.edu.co
-- GitHub: [@tu-usuario](https://github.com/Andrew28092001)
+- GitHub: [@Andrew28092001](https://github.com/Andrew28092001)
 
 ---
 
