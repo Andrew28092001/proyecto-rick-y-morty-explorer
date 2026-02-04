@@ -346,7 +346,7 @@ npm run test:coverage
 
 ## 🚀 Deploy
 
-### Vercel (Recomendado)
+### Vercel
 
 ```bash
 # Instalar Vercel CLI
@@ -358,13 +358,6 @@ vercel
 # Deploy a producción
 vercel --prod
 ```
-
-### Netlify
-
-1. Conecta tu repositorio en netlify.com
-2. Build command: `npm run build`
-3. Publish directory: `dist`
-4. Deploy automático ✅
 
 ### Variables de Entorno
 
@@ -382,11 +375,6 @@ No se requieren variables de entorno (usa API pública).
 
 ---
 
-## 📝 Licencia
-
-MIT License - Ver [LICENSE](LICENSE) para más detalles.
-
----
 
 ## 👤 Autor
 
