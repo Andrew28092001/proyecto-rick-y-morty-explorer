@@ -128,7 +128,8 @@ rick-morty-explorer/
 ├── postcss.config.js      # Config de PostCSS
 ├── vitest.config.ts       # Config de tests
 ├── tsconfig.json          # Config de TypeScript
-└── package.json
+├── package.json
+└── vercel.json            # Config de vercel
 ```
 
 ---
