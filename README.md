@@ -1,7 +1,15 @@
 # 🚀 Rick & Morty Explorer
 
-Aplicación web para explorar personajes de Rick and Morty construida con React, TypeScript y Tailwind CSS.
+[![Deploy](https://img.shields.io/badge/deploy-success-brightgreen)](https://rick-morty-explorer-zeta.vercel.app)
+[![Live Demo](https://img.shields.io/badge/demo-live-blue)](https://rick-morty-explorer-zeta.vercel.app)
 
+Aplicación web para explorar personajes de Rick and Morty.
+
+## 🌐 Demo en Vivo
+
+**[👉 Ver App en Producción](https://rick-morty-explorer-zeta.vercel.app)**
+
+---
 ## ✨ Características
 
 ### Funcionalidades Principales
