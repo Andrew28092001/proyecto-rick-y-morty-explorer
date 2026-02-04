@@ -1,6 +1,14 @@
 {
   "rewrites": [
     {
+      "source": "/characters/:path*",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/favorites",
+      "destination": "/index.html"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
