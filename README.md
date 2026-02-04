@@ -382,7 +382,7 @@ MIT License - Ver [LICENSE](LICENSE) para más detalles.
 
 ## 👤 Autor
 
-**Tu Nombre**
+**** Andrés David Molina Bueres
 - Email: andres.molinab@pca.edu.co
 - GitHub: [@tu-usuario](https://github.com/Andrew28092001)
 
